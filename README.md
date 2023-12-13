@@ -32,7 +32,14 @@ To get started with the 🍏 Apple Vision Pro Clone 🚀 project, follow these s
 Open the **index.html** file in your preferred web browser.
 
 ## Screenshot
-These are only few images i am adding in it.
+I am adding only a few of the images in it.
+
+
+<img width="500" alt="Screenshot 2023-12-13 at 10 23 06 AM" src="https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/assets/114878612/53b65d3f-87e2-4804-9ee3-1d53dd093c74">
+<img width="500" alt="Screenshot 2023-12-13 at 10 23 21 AM" src="https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/assets/114878612/651f4d2b-7876-45d5-9a93-80d089ebcfd6">
+<img width="500" alt="Screenshot 2023-12-13 at 10 23 41 AM" src="https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/assets/114878612/683bac3f-7927-4ee5-8440-59f6f997dea9">
+<img width="500" alt="Screenshot 2023-12-13 at 10 24 03 AM" src="https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/assets/114878612/acc79646-90b0-48aa-ab5e-66aa800ca0c7">
+<img width="500" alt="Screenshot 2023-12-13 at 10 24 16 AM" src="https://github.com/sahilsingh12221802/Apple-Vision-Pro-Clone/assets/114878612/58f357eb-20af-4a6d-bf4b-71b5c7d48bfe">
 
 
 

@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    font-family: SF PRO DISPLAY;
+    font-family: SF PRO Text;
 }
 html, 
 body{
@@ -12,6 +12,35 @@ body{
 #main{
     position: relative;
     overflow: hidden;
+}
+#topnav{
+    position: relative;
+    height: 6vh;
+    width: 5vw;
+    background-color: #000;
+}
+#topnav>header>nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 200px;
+    height: 6vh;
+    width: 100vw;
+    position: relative;
+    top: 7%;
+    transform: translateX(0%);
+    background-color: #000;
+    color: #fff;
+}
+#topnav>header>nav>img{
+    height: 50%;
+    width: 5%;
+    object-fit: cover;
+    background-color: #000;
+}
+#topnav>header>nav>h5{
+    position: relative;
+    cursor: pointer;
 }
 #page{
     position: relative;
@@ -25,25 +54,27 @@ body{
     justify-content: space-between;
     padding: 0px 20px;
     height: 7vh;
-    width: 50vw;
-    position: absolute;
+    width: 72vw;
+    position: relative;
     top: 0%;
     left: 50%;
     transform: translateX(-50%);
     color: #fff;
+    font-size: large;
 }
 #page>nav>button{
     padding: 7px 20px;
     border: none;
     border-radius: 50px;
     background-color: #fff;
+    cursor: pointer;
 }
 #page>nav>h3{
-    font-weight: 400;
+    font-weight: 600;
 }
 #page>video{
     height: 100%;
-    width: 50%;
+    width: 60%;
     object-fit: cover;
     position: absolute;
     left: 50%;

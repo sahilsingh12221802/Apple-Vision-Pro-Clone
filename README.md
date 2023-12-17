@@ -1,9 +1,7 @@
-# Apple Vision Pro Clone [![Apple_Vision_Pro](https://cdn3.emoji.gg/emojis/8894-apple-vision-pro.png)](https://emoji.gg/emoji/8894-apple-vision-pro)
+# Apple Vision Pro Clone 
+[![Apple_Vision_Pro](https://cdn3.emoji.gg/emojis/8894-apple-vision-pro.png)](https://emoji.gg/emoji/8894-apple-vision-pro)
 
 Welcome to the 🍏 Apple Vision Pro Clone 🚀 project! This project aims to replicate the Apple Vision Pro website with some enhancements, including captivating 3D effects using GSAP libraries and locomotive scrolling.
-
-## Note
-The work on this website is still going on.
 
 ## Introduction
 

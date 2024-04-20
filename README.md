@@ -51,6 +51,5 @@ Simply open the **index.html** file in a web browser to experience the 🍏 Appl
 ## Contributing
 If you'd like to contribute to the 🍏 Apple Vision Pro Clone 🚀 project, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
+
 

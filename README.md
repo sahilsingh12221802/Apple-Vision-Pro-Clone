@@ -48,8 +48,5 @@ Simply open the **index.html** file in a web browser to experience the 🍏 Appl
 **GSAP (GreenSock Animation Platform):** A powerful library for creating high-performance animations.
 
 **Locomotive Scroll:** A smooth scrolling library for creating visually appealing and interactive scrolling experiences.
-## Contributing
-If you'd like to contribute to the 🍏 Apple Vision Pro Clone 🚀 project, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated.
-
 
 
